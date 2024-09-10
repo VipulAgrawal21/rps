@@ -38,7 +38,7 @@ $result = check($computer, $human);
 <!DOCTYPE html>
 <html>
 <head>
-<title>Vipul Agrawal, Paper, Scissors Game</title>
+<title>Meng Shi Rock, Paper, Scissors Game</title>
 <?php require_once "bootstrap.php"; ?>
 </head>
 <body>
