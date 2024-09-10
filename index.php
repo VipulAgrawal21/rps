@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Vipul Agrawal - Broken Rock Paper Scissors</title>
+<title>Vipul Agrawal - Broken Rock Paper Scissors - af97a874 </title>
 <?php require_once "bootstrap.php"; ?>
 </head>
 <body>
